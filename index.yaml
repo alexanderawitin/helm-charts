@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  stolon:
+  - appVersion: 0.12.0
+    created: 2018-11-12T17:54:27.848341+08:00
+    description: Stolon - PostgreSQL cloud native High Availability.
+    digest: 2232a14bdb4f0468e5cd5ac8dbb90057f5d8f455e5ba67c11097d512eaadb1c5
+    engine: gotpl
+    home: https://github.com/sorintlab/stolon
+    icon: https://i.imgur.com/tIW8sAW.png
+    maintainers:
+    - email: rluckie@cisco.com
+      name: rtluckie
+    - email: ipaq.lw@gmail.com
+      name: lwolf
+    name: stolon
+    sources:
+    - https://github.com/sorintlab/stolon
+    - https://github.com/lwolf/stolon-chart
+    urls:
+    - https://alexanderawitin.github.io/helm-charts/stolon-0.4.4.tgz
+    version: 0.4.4
+generated: 2018-11-12T17:54:27.847506+08:00
